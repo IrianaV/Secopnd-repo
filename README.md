@@ -1,2 +1,2 @@
-# Secopnd-repo
+# Second-repo
 Testing this second repo
